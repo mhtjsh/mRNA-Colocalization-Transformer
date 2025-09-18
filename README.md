@@ -126,7 +126,7 @@ Next Steps & Future Work
 Repository Contents
 -------------------
 
-*   **mRNA Colocalization.ipynb** – Colab notebook with preprocessing, analysis, and preliminary results.
+*   **mRNA Colocalization.ipynb** – Colab notebook with preprocessing, analysis, and preliminary results
     
 *   **plotly visualization:** raw MERFISH data and radius neighborhood data visualized in 3D.
     
@@ -134,7 +134,6 @@ Repository Contents
     
 *   **session2.ppt**– Session 2 presentation focusing on transformer modeling.
     
-*   **mRNA Colocalisation.ipynb**– Processed dataset exploration and results.
     
 
 Acknowledgements
